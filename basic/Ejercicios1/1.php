@@ -12,7 +12,7 @@ $name = "Alejandro";
 $age = 25;
 $city = "Ourense";
 
-echo "<p>Hello I'm $name and I'm $age years old and i like the city of $city</p>";
+echo "<p>Hello I'm $name and Im $age years old and i like the city of $city</p>";
 ?>  
 </body>
 </html>
